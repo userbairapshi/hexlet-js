@@ -10,6 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "-": "^0.0.1",
+    "cloc": "^2.0.0-cloc",
+    "g": "^2.0.1",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.2.5"
   }
 }
